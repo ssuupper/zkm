@@ -2,7 +2,7 @@
     <div>
         <input type="button" value="Reload" @click='reload()'>
         <br>
-        <label>Zookeeper URL:</label>
+        <label class="w100">Zookeeper URL:</label>
         <template v-if='state==0'>
             <input type="text" v-model='zkURL'/>
             <input type="button" value="CONNECT" @click='connect()'/>
@@ -39,7 +39,7 @@ export default {
     return {
       greet: "hello wxorl!!!",
       state: 0,
-      zkURL: "127.0.0.1:2181",
+      zkURL: "192.168.146.90:2181",
       zk: {},
       path: "",
       nodePath: "",
@@ -226,6 +226,7 @@ label {
   font-family: "Courier New", Courier, monospace;
 }
 .w100 {
-  width: 100px;
+  width: 150px;
+  display: inline-block;
 }
 </style>

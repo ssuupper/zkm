@@ -40,7 +40,7 @@ function createWindow() {
     }
   ];
   const menu = Menu.buildFromTemplate(template);
-  Menu.setApplicationMenu(menu);
+  //Menu.setApplicationMenu(menu);
   // Create the browser window.
   mainWindow = new BrowserWindow({ resizable: true, width: 800, height: 600, })
 
