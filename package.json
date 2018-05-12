@@ -4,7 +4,9 @@
   "description": "A Simple Tool to Manage Zookeeper",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "pack": "webpack",
+    "publish": "electron-packager . "
   },
   "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [
@@ -16,25 +18,28 @@
   "author": "yeshuqiu",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^1.4.1",
-    "electron-rebuild": "^1.5.11",
-    "raw-loader": "^0.5.1"
-  },
-  "dependencies": {
     "ajv": "^5.2.0",
-    "babel-core": "^6.25.0",
-    "babel-loader": "^7.0.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
     "babel-plugin-transform-runtime": "^6.23.0",
     "babel-preset-es2015": "^6.24.1",
     "babel-runtime": "^6.23.0",
-    "css-loader": "^0.28.4",
+    "css-loader": "^0.28.11",
+    "electron": "^1.4.1",
+    "electron-packager": "^12.0.2",
+    "electron-rebuild": "^1.5.11",
     "event-queue": "^0.2.0",
-    "gulp-webpack": "^1.5.0",
+    "raw-loader": "^0.5.1",
     "vinyl-named": "^1.1.0",
     "vue": "^2.3.4",
-    "vue-loader": "^12.2.1",
+    "vue-hot-reload-api": "^1.3.3",
+    "vue-html-loader": "^1.2.4",
+    "vue-loader": "^8.7.1",
+    "vue-style-loader": "^4.1.0",
     "vue-template-compiler": "^2.3.4",
-    "webpack": "^2.0.0",
-    "zookeeper": "^3.4.9-3"
+    "webpack": "^2.7.0"
+  },
+  "dependencies": {
+    "node-zookeeper-client": "^0.2.2"
   }
 }
