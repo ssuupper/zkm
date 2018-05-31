@@ -1,0 +1,86 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1193046 (0x123456)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CN, ST=BJ, L=BJ, O=JD, OU=IT, CN=www.ssuupper.com/emailAddress=yeshuqiu2012@163.com
+        Validity
+            Not Before: May 31 23:34:17 2018 GMT
+            Not After : May 31 23:34:17 2019 GMT
+        Subject: C=CN, ST=BJ, O=JD, OU=IT, CN=www.ssuupper.com/emailAddress=yeshuqiu2012@163.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c8:32:81:30:31:04:43:71:ed:97:33:34:1f:72:
+                    21:8f:93:a4:cb:4a:45:19:87:e0:77:e6:3b:82:80:
+                    e5:47:30:d2:7d:9b:a2:1f:4f:20:ec:f4:87:6c:e8:
+                    52:91:79:6f:3b:45:7a:2a:d3:04:1b:0e:45:bd:72:
+                    2a:f0:48:d4:fa:87:47:0b:49:ab:92:9a:cf:d0:66:
+                    10:98:ce:b7:ed:ed:ee:9a:ad:d6:da:75:b6:c9:53:
+                    cf:12:b5:21:25:99:dd:3a:3c:8e:66:42:9d:27:9d:
+                    09:40:77:67:11:26:b1:74:5b:e9:a7:69:a3:d8:d0:
+                    01:aa:01:b4:74:06:16:4b:a4:66:9d:44:2d:fc:f0:
+                    fd:40:0e:cd:f1:80:2a:3f:45:a9:61:74:8e:e9:88:
+                    6d:72:e7:81:62:07:b6:e3:24:b1:93:de:85:6f:ef:
+                    68:f0:3d:5a:fd:93:6f:27:9f:0a:33:5c:10:8d:03:
+                    a4:eb:f2:cc:0c:6a:5d:23:98:0a:31:cd:61:c5:62:
+                    99:7c:2b:a6:16:ad:05:76:f6:e7:d4:e1:0e:19:86:
+                    7c:34:e0:97:47:d6:e9:55:74:d9:fd:04:a3:72:3f:
+                    cc:bd:ec:ba:fa:de:10:4f:fa:ab:57:18:df:87:b6:
+                    99:ee:ae:5d:0a:7c:c1:45:17:9f:a0:39:4c:ee:2f:
+                    8c:25
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                E9:84:12:5F:74:F3:13:AD:C6:91:7B:EA:77:54:49:BD:93:9A:3D:EF
+            X509v3 Authority Key Identifier: 
+                DirName:/C=CN/ST=BJ/L=BJ/O=JD/OU=IT/CN=www.ssuupper.com/emailAddress=yeshuqiu2012@163.com
+                serial:D4:41:44:67:BF:4B:26:94
+
+    Signature Algorithm: sha256WithRSAEncryption
+         7a:dd:cd:52:bb:d4:90:b2:07:c6:93:dc:c0:01:73:44:d8:5e:
+         c7:2e:ec:57:0c:f3:84:6b:a3:e7:eb:48:dc:3b:4c:ae:da:39:
+         f3:95:4e:b2:af:a1:19:03:5a:ee:cf:b8:bf:ca:da:39:f9:fd:
+         bc:3a:6c:27:e7:62:b8:8c:e5:e6:bf:67:68:4f:fa:fa:f1:3e:
+         4c:02:f9:91:52:d2:e7:be:d3:84:b1:f7:84:bf:61:55:5d:b9:
+         d2:9b:db:3b:5d:c0:d4:e7:76:d4:78:44:33:cb:14:b9:c1:0e:
+         20:eb:24:20:9e:b1:dd:84:56:68:cb:10:70:1a:67:13:5e:5b:
+         17:64:8e:61:ee:80:18:c2:e5:8b:ba:64:a4:83:69:2f:da:22:
+         eb:89:cd:44:aa:23:66:8b:4a:4e:1d:34:d6:f8:3f:ef:8b:32:
+         cd:39:95:31:30:f3:5f:8b:39:8c:a3:fd:0e:ad:5e:cb:91:64:
+         30:75:ef:c1:9b:de:43:01:c8:22:de:0c:5e:4a:19:d8:46:83:
+         bb:4b:d4:23:bb:25:12:9a:d8:db:92:d3:b0:b9:ad:ba:0a:2b:
+         30:1f:d7:08:d9:26:57:e8:26:23:ac:73:32:11:01:89:58:e5:
+         bc:5d:ba:ab:0b:e9:67:63:e7:63:e1:6f:8e:2e:03:18:50:dc:
+         8b:1d:62:36
+-----BEGIN CERTIFICATE-----
+MIIEcjCCA1qgAwIBAgIDEjRWMA0GCSqGSIb3DQEBCwUAMIGBMQswCQYDVQQGEwJD
+TjELMAkGA1UECAwCQkoxCzAJBgNVBAcMAkJKMQswCQYDVQQKDAJKRDELMAkGA1UE
+CwwCSVQxGTAXBgNVBAMMEHd3dy5zc3V1cHBlci5jb20xIzAhBgkqhkiG9w0BCQEW
+FHllc2h1cWl1MjAxMkAxNjMuY29tMB4XDTE4MDUzMTIzMzQxN1oXDTE5MDUzMTIz
+MzQxN1owdDELMAkGA1UEBhMCQ04xCzAJBgNVBAgMAkJKMQswCQYDVQQKDAJKRDEL
+MAkGA1UECwwCSVQxGTAXBgNVBAMMEHd3dy5zc3V1cHBlci5jb20xIzAhBgkqhkiG
+9w0BCQEWFHllc2h1cWl1MjAxMkAxNjMuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAyDKBMDEEQ3HtlzM0H3Ihj5Oky0pFGYfgd+Y7goDlRzDSfZui
+H08g7PSHbOhSkXlvO0V6KtMEGw5FvXIq8EjU+odHC0mrkprP0GYQmM637e3umq3W
+2nW2yVPPErUhJZndOjyOZkKdJ50JQHdnESaxdFvpp2mj2NABqgG0dAYWS6RmnUQt
+/PD9QA7N8YAqP0WpYXSO6YhtcueBYge24ySxk96Fb+9o8D1a/ZNvJ58KM1wQjQOk
+6/LMDGpdI5gKMc1hxWKZfCumFq0Fdvbn1OEOGYZ8NOCXR9bpVXTZ/QSjcj/Mvey6
++t4QT/qrVxjfh7aZ7q5dCnzBRRefoDlM7i+MJQIDAQABo4H+MIH7MAkGA1UdEwQC
+MAAwLAYJYIZIAYb4QgENBB8WHU9wZW5TU0wgR2VuZXJhdGVkIENlcnRpZmljYXRl
+MB0GA1UdDgQWBBTphBJfdPMTrcaRe+p3VEm9k5o97zCBoAYDVR0jBIGYMIGVoYGH
+pIGEMIGBMQswCQYDVQQGEwJDTjELMAkGA1UECAwCQkoxCzAJBgNVBAcMAkJKMQsw
+CQYDVQQKDAJKRDELMAkGA1UECwwCSVQxGTAXBgNVBAMMEHd3dy5zc3V1cHBlci5j
+b20xIzAhBgkqhkiG9w0BCQEWFHllc2h1cWl1MjAxMkAxNjMuY29tggkA1EFEZ79L
+JpQwDQYJKoZIhvcNAQELBQADggEBAHrdzVK71JCyB8aT3MABc0TYXscu7FcM84Rr
+o+frSNw7TK7aOfOVTrKvoRkDWu7PuL/K2jn5/bw6bCfnYriM5ea/Z2hP+vrxPkwC
++ZFS0ue+04Sx94S/YVVdudKb2ztdwNTndtR4RDPLFLnBDiDrJCCesd2EVmjLEHAa
+ZxNeWxdkjmHugBjC5Yu6ZKSDaS/aIuuJzUSqI2aLSk4dNNb4P++LMs05lTEw81+L
+OYyj/Q6tXsuRZDB178Gb3kMByCLeDF5KGdhGg7tL1CO7JRKa2NuS07C5rboKKzAf
+1wjZJlfoJiOsczIRAYlY5bxduqsL6Wdj52Phb44uAxhQ3IsdYjY=
+-----END CERTIFICATE-----
